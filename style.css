@@ -270,7 +270,7 @@
   .projectimage1 {
     width: 500px;
     height: 300px;
-    border: rgb(53, 52, 52) solid 2px;
+   
   }
   
   div.modal-content {
@@ -308,9 +308,12 @@
     outline: none;
     border-radius: 0;
     background-color: white;
-    border-color: rgb(51, 51, 51);
+    border:none;
+    
     padding: 10px;
     font-size: large;
+    font-family:"Raleway", sans-serif ;
+    color:black;
     /* margin-left: 150px; */
   }
   
